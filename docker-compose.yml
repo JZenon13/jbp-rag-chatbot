@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  jbp-chatbot:
+    build:
+      context: .
+      args:
+        TOGETHER_API_KEY: ${TOGETHER_API_KEY}
+    ports:
+      - "3000:3000"
+    environment:
+      - TOGETHER_API_KEY=${TOGETHER_API_KEY}
+    volumes:
+      - .:/app
+    command: npm run start
