@@ -16,6 +16,9 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
+   icons: {
+    icon: "/jbp.png",
+  },
   title: "JBP Talks Genesis",
   description: "Jordan B. Peterson gives a Carl Jungian interpretation of the Book of Genesis.",
 };

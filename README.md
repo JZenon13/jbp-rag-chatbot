@@ -14,5 +14,3 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions using the 
 
 ---
 
-## 🖼 App Structure
-
