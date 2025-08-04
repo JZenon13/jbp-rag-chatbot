@@ -14,3 +14,19 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions using the 
 
 ---
 
+## Getting Started
+
+To get started with the project, you need to have Docker installed on your machine.
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Run `docker-compose up` to start the application.
+
+## Usage
+
+Once the application is running:
+
+1. Open your web browser.
+2. Navigate to the frontend server's URL [http://localhost:3000/](http://localhost:3000/).
+
+You should now be able to see the Chatbot UI. Inquire about Jordan Peterson's Genesis Lecture series or simply have a chat. 
