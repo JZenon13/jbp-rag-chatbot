@@ -20,7 +20,7 @@ To get started with the project, you need to have Docker installed on your machi
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Run `docker-compose up` to start the application.
+3. Run `docker compose up` to start the application.
 
 ## Usage
 
