@@ -67,7 +67,7 @@ export default function Chat() {
                   {message.content}
                 </div>
               ) : (
-                <div className="whitespace-pre-wrap">{message.content}</div>
+                <div className="whitespace-pre-wrap rounded-full bg-gray-200 px-4 py-2 text-black">{message.content}</div>
               )}
             </div>
           ))}
