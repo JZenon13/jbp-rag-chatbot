@@ -16,7 +16,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions using the 
 
 ## Getting Started
 
-To get started with the project, you need to have Docker installed on your machine and an API Key to TogetherAI
+To get started with the project, you need to have Docker installed on your machine and an API Key from TogetherAI (Free)
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
